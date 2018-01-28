@@ -1,0 +1,14 @@
+{
+  "name": "probando-libreria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "build": "babel src -d lib"
+  },
+  "author": "Melissa Yauri",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
